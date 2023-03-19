@@ -1,4 +1,4 @@
-//------------------------Number System And Unit Conversion With Simple Calculator------------------------------
+//------------------------Number System And Unit Conversion With Simple Calculator------------------------------By Rayhan Sany
 
 #include <stdio.h>
 #include <conio.h>
